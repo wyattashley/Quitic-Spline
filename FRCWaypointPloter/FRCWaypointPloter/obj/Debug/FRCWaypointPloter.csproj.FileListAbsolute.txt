@@ -1,0 +1,13 @@
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\bin\Debug\FRCWaypointPloter.exe.config
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\bin\Debug\FRCWaypointPloter.exe
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\bin\Debug\FRCWaypointPloter.pdb
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.csprojAssemblyReference.cache
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.Properties.Resources.resources
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.csproj.GenerateResource.cache
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.exe
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.pdb
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.Plotter.resources
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\bin\Debug\MathNet.Numerics.dll
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\bin\Debug\MathNet.Numerics.xml
+C:\Users\Wyatt\source\repos\FRCWaypointPloter\FRCWaypointPloter\obj\Debug\FRCWaypointPloter.csproj.CopyComplete
